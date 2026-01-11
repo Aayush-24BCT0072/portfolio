@@ -57,7 +57,7 @@ nav a:hover {
 }
 
 .about-bg {
-    background-image: url("images/banner.jpg");
+    background-image: url("banner.jpg");
     background-size: cover;
 }
 
@@ -71,4 +71,5 @@ footer {
 .gif-center {
     text-align: center;
 }
+
 
